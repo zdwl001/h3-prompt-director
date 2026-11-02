@@ -1,0 +1,31 @@
+H3 Prompt Director
+Copyright (c) 2026 zdwl001
+
+This repository contains original workflow, documentation, and templates by
+the author. These original parts are licensed under the MIT License; see
+LICENSE.
+
+Third-party materials
+---------------------
+MiniMax H3 and its official prompt-writing documentation are products of
+MiniMax.
+
+The official documents (SKILL.md, base-en.txt, ref-en.txt) are NOT
+redistributed in this repository. They are downloaded at install time from
+https://github.com/MiniMax-AI/MiniMax-H3 and are governed by the MiniMax H3
+Community License Agreement.
+
+"MiniMax H3 is licensed under the MiniMax H3 Community License Agreement,
+Copyright © 2026 MiniMax. All Rights Reserved."
+
+License text:
+https://huggingface.co/MiniMaxAI/MiniMax-H3/blob/main/LICENSE
+
+The MiniMax H3 Community License grants rights only within the Applicable
+Territory (worldwide excluding the European Union, the United Kingdom, the
+Republic of Korea and the United States of America) and imposes conditions on
+redistribution. Users are responsible for confirming that their use complies
+with that agreement.
+
+This project is an independent workflow layer. It is not affiliated with,
+endorsed by, or sponsored by MiniMax.

@@ -1,0 +1,15 @@
+# Official MiniMax documents fetched locally; not redistributed in this repo
+references/official/*.md
+references/official/*.txt
+!references/official/README.md
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+
+# Tooling caches
+__pycache__/
+node_modules/
